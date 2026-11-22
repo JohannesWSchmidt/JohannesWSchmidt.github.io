@@ -5,7 +5,9 @@
         "appIDs": ["69U6G4YMA6.de.rezept-rhino.prod"],
         "components": [
           { "/": "/rezept-rhino/r", "comment": "A shared recipe (docs/SPEC-1.6.md F3)" },
-          { "/": "/rezept-rhino/r/*", "comment": "A shared recipe (docs/SPEC-1.6.md F3)" }
+          { "/": "/rezept-rhino/r/*", "comment": "A shared recipe (docs/SPEC-1.6.md F3)" },
+          { "/": "/rezept-rhino/j", "comment": "An invite to a family (docs/SPEC-1.7.md F3)" },
+          { "/": "/rezept-rhino/j/*", "comment": "An invite to a family (docs/SPEC-1.7.md F3)" }
         ]
       }
     ]
